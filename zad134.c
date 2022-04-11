@@ -5,7 +5,7 @@
 int main()
 {
     int A[10][10],i,j,m,n;
-    int row, col, prod = 1;
+    int prod = 1;
 
     printf("Unesi broj redaka: ");
         scanf("%d", &m);
